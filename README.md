@@ -1,4 +1,4 @@
-# KeyboardMagic
+# Keyboard Magic
 
 This project is a simple web page that displays the key, keycode, and code of any key pressed on the keyboard. When a key is pressed, the information is displayed in a table.
 
