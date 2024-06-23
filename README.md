@@ -4,9 +4,9 @@ This project is a simple web page that displays the key, keycode, and code of an
 
 ## Language Used
 
-**HTML
-**CSS
-**JavaScript
+-HTML
+-CSS
+-JavaScript
 
 ## Features
 
